@@ -1,0 +1,35 @@
+{
+  "name": "vern-authentication-facebook",
+  "version": "0.0.1",
+  "description": "Username/password authentication for using Facebook with Vern.",
+  "main": "lib/FacebookController.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uh-sem-blee/vern-authentication-facebook"
+  },
+  "keywords": [
+    "vern",
+    "mvc",
+    "rest",
+    "api",
+    "angularjs",
+    "mongodb",
+    "less",
+    "framework",
+    "platform"
+  ],
+  "author": "uh-sem-blee",
+  "license": "Copyright 2014 uh-sem-blee, Co.",
+  "bugs": {
+    "url": "https://github.com/uh-sem-blee/vern-authentication-facebook/issues"
+  },
+  "homepage": "https://github.com/uh-sem-blee/vern-authentication-facebook",
+  "devDependencies": {
+    "vern-core": "latest",
+    "vern-authentication": "latest"
+  },
+  "dependencies": {}
+}
